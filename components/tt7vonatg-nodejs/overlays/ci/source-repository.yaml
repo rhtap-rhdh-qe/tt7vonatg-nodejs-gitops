@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tt7vonatg-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tt7vonatg-nodejs
